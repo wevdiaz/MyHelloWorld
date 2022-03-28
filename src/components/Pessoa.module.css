@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    place-items: center;
+    margin: 10vh auto 0;
+    padding: 16px;
+    width: 300px;
+
+    box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: dodgerblue;
+}

@@ -3,7 +3,7 @@ import Pessoa from './components/Pessoa';
 import HelloWorld from './components/HelloWorld';
 
 function App() {
-  const words = "Faazendo meu primeiro teste com React";
+  const words = "Fazendo meu primeiro teste com React";
 
   return (
    <div>

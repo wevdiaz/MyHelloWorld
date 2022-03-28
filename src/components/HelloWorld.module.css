@@ -1,0 +1,10 @@
+p {
+    text-align: center;
+    margin-top: 16px;
+}
+
+.text {
+    font-weight: bold;
+    font-style: italic;
+    color: #44bd32;
+}
